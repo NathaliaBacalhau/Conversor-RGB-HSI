@@ -64,7 +64,7 @@ Resultado HSI:
 - S: 1.0  
 - I: 0.333  
 
-![Exemplo 1](exemplos/exemplo1.png)
+![Exemplo 1](exemplos/exemplo_1.png)
 
 ### Exemplo 2: Conversão de Verde Puro
 
@@ -75,7 +75,7 @@ Resultado HSI:
 - S: 1.0  
 - I: 0.333  
 
-![Exemplo 2](exemplos/exemplo2.png)
+![Exemplo 2](exemplos/exemplo_2.png)
 
 ## Contribuição
 
