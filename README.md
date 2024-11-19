@@ -55,31 +55,28 @@ A conversão de RGB para HSI é implementada manualmente com base nas fórmulas 
 
 ## Exemplos
 
-### Exemplo 1: Conversão de Vermelho Puro
+### Exemplo 1: Conversão de cinza
 
-Entrada RGB: (255, 0, 0)
+Entrada RGB: (160, 160, 160)
 
 Resultado HSI:
 - H: 0.0°  
-- S: 1.0  
-- I: 0.333  
+- S: 0.0  
+- I: 0.63  
 
 ![Exemplo 1](exemplos/exemplo_1.png)
 
-### Exemplo 2: Conversão de Verde Puro
+### Exemplo 2: Conversão de Rosa
 
-Entrada RGB: (0, 255, 0)
+Entrada RGB: (255, 128, 255)
 
 Resultado HSI:
-- H: 120.0°  
-- S: 1.0  
-- I: 0.333  
+- H: 300.0°  
+- S: 0.4  
+- I: 0.83  
 
 ![Exemplo 2](exemplos/exemplo_2.png)
 
-## Contribuição
-
-Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias para o projeto.
 
 ## Licença
 
@@ -88,4 +85,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 --- 
 
 **Autor:** Nathália Bacalhau  
-*Transformando desafios em aprendizado prático!*
