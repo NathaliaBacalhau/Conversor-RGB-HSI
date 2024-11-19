@@ -18,8 +18,8 @@ Este projeto implementa um programa em **Python** que realiza a conversão de va
 ├── main.py           # Arquivo principal do programa
 ├── README.md         # Documentação do projeto
 ├── exemplos/         # Pasta com prints da interface e conversões
-    ├── exemplo1.png
-    ├── exemplo2.png
+    ├── exemplo_1.png
+    ├── exemplo_2.png
 ```
 
 ## Requisitos
